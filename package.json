@@ -12,7 +12,7 @@
   "main": "index.js",
   "dependencies": {
     "aws2js": "0.8.x",
-    "mongoose-attachments": "0.1.x"
+    "mongoose-attachments": "https://github.com/nathankot/mongoose-attachments/tarball/wedis"
   },
   "engines": {
     "node": "*"
