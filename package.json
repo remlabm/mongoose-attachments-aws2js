@@ -12,7 +12,7 @@
   "main": "index.js",
   "dependencies": {
     "aws2js": "0.8.x",
-    "mongoose-attachments": "git://github.com/nathankot/mongoose-attachments.git#master"
+    "mongoose-attachments": "git://github.com/nathankot/mongoose-attachments.git#wedis"
   },
   "engines": {
     "node": "*"
